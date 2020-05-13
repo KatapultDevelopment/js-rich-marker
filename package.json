@@ -1,0 +1,22 @@
+{
+  "name": "@katapult/js-rich-marker",
+  "version": "1.0.0",
+  "description": "**Please note:** This repository is not currently maintained, and is kept for historical purpose only.",
+  "main": "src/richmarker.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KatapultDevelopment/js-rich-marker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KatapultDevelopment/js-rich-marker/issues"
+  },
+  "homepage": "https://github.com/KatapultDevelopment/js-rich-marker#readme"
+}
