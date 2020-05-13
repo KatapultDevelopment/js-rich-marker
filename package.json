@@ -2,7 +2,7 @@
   "name": "@katapult/js-rich-marker",
   "version": "1.0.0",
   "description": "**Please note:** This repository is not currently maintained, and is kept for historical purpose only.",
-  "main": "src/richmarker.js",
+  "main": "src/richmarker-compiled.js",
   "directories": {
     "example": "examples"
   },
